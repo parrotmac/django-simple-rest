@@ -6,3 +6,10 @@
 *.tar.gz
 build
 dist
+
+# Jetbrains
+.idea/
+
+#macOS
+.DS_Store
+

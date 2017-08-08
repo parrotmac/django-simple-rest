@@ -42,4 +42,4 @@ specified, the secure signature is also calculated and added to the result."""
             data['t'] = timestamp
             data['sig'] = signature
 
-        print urllib.urlencode(data)
+        print(urllib.urlencode(data))
